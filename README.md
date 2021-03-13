@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @skynetn1fan, I for one, can't wait to welcome our robot overlords... 
+- 👀 I’m interested in everything AI: from deep learning to robotics.   
+- 🌱 I’m currently exploring deep learning:   
+    - CV applications as seen at Tesla motors.
+    - The ethics of facial recognition, deep fakes etc.
+    - The combination of CV and NLP by using text representations to improve accuracy.
+    - Too much to mention here...
